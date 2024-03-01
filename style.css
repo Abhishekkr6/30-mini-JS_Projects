@@ -29,6 +29,9 @@ body{
     cursor: pointer;
     
 }
+.navbar i{
+    background: transparent;
+}
 
 .container{
     width: 100%;

@@ -17,7 +17,8 @@ gsap.from(".box",{
     scale: 0,
     opacity: 0,
     duration: 1.2,
-    delay: 2
+    delay: 2,
+    stagger: .4,
 })
 
 

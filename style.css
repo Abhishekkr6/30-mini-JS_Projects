@@ -87,7 +87,7 @@ body{
 
 .code, .live{
     padding: .5rem 1rem;
-    font-size: 1.1rem;
+    font-size: 1.1vw;
     font-weight: 900;
     cursor: pointer;
     border: none;

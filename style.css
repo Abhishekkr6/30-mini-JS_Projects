@@ -56,13 +56,13 @@ body{
 .box:nth-child(1){
     display: block;
 }
-#box1{
+#box1, #box2{
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: .7rem;
 }
-#box1 img{
+#box1 img, #box2 img{
     position: relative;
     height: 75%; 
     width: 100%;
@@ -71,6 +71,10 @@ body{
     transition: all ease .7s;
 }
 #box1 img:hover{
+    transform: scale(1.1);
+    border-radius: 0px;
+}
+#box2 img:hover{
     transform: scale(1.1);
     border-radius: 0px;
 }

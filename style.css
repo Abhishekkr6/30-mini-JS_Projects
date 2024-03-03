@@ -266,6 +266,9 @@ footer h3 span{
         height: 40vh;
         width: 40vw;
     }
+    .code, .live{
+        font-size: 2vw;
+    }
     .social {
         gap: 5vw;
     }
@@ -291,6 +294,9 @@ footer h3 span{
     }
     .social {
         gap: 5vw;
+    }
+    .code, .live{
+        font-size: 2vw;
     }
     .social i{
         font-size: 5vw;

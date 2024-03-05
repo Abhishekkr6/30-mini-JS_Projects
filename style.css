@@ -62,7 +62,7 @@ body{
     align-items: center;
     gap: .7rem;
 }
-#box1 img, #box2 img{
+#box1 img, #box2 img, #box3 img{
     position: relative;
     height: 75%; 
     width: 100%;
@@ -78,13 +78,17 @@ body{
     transform: scale(1.1);
     border-radius: 0px;
 }
+#box3 img:hover{
+    transform: scale(1.1);
+    border-radius: 0px;
+}
 .buttons{
     display: flex;
     align-items: center;
     gap: 3rem;
     background: transparent;
+    justify-content: center;
 }
-
 .code, .live{
     padding: .5rem 1rem;
     font-size: 1.1vw;

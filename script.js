@@ -1,3 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      // Animation
 let tl = gsap.timeline()
 
 tl.from(".navbar",{

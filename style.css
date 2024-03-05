@@ -283,7 +283,7 @@ footer h3 span{
         width: 40vw;
     }
     .code, .live{
-        font-size: 2vw;
+        font-size: 3vw;
     }
     .social {
         gap: 5vw;
@@ -300,6 +300,7 @@ footer h3 span{
     .container{
         grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); 
         row-gap:  3rem;
+        background-color: rebeccapurple;
     }
     .container .box{
         height: 40vh;
@@ -312,7 +313,8 @@ footer h3 span{
         gap: 5vw;
     }
     .code, .live{
-        font-size: 2vw;
+        font-size: 4vw;
+        margin-top: 10px;
     }
     .social i{
         font-size: 5vw;

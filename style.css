@@ -274,7 +274,7 @@ footer h3 span{
         cursor: pointer;
     }
 }
-@media screen and (max-width: 739px) {
+@media screen and (max-width: 729px) {
     .container{
         grid-template-columns: repeat(auto-fit,minmax(200px,1fr)); 
     }

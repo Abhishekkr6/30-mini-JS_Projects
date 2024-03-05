@@ -277,6 +277,7 @@ footer h3 span{
 @media screen and (max-width: 739px) {
     .container{
         grid-template-columns: repeat(auto-fit,minmax(200px,1fr)); 
+        background-color: red;
     }
     .container .box{
         height: 40vh;

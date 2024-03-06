@@ -65,12 +65,14 @@ body{
     align-items: center;
     gap: .7rem;
 }
-#box1 img, #box2 img, #box3 img{
+#box1 img, #box2 img, #box3 img, #box4 img{
     position: relative;
     height: 75%; 
     width: 100%;
     border-radius: 10px;
     object-fit: fill;
+    background-position: center;
+    background-size: cover;
     transition: all ease .7s;
 }
 #box1 img:hover{
@@ -82,6 +84,10 @@ body{
     border-radius: 0px;
 }
 #box3 img:hover{
+    transform: scale(1.1);
+    border-radius: 0px;
+}
+#box4 img:hover{
     transform: scale(1.1);
     border-radius: 0px;
 }

@@ -66,7 +66,7 @@ body{
     gap: .7rem;
 }
 
-#box1 img, #box2 img, #box3 img, #box4 img, #box5 img{
+#box1 img, #box2 img, #box3 img, #box4 img, #box5 img, #box6 img{
     position: relative;
     height: 75%; 
     width: 100%;
@@ -93,6 +93,10 @@ body{
     border-radius: 0px;
 }
 #box5 img:hover{
+    transform: scale(1.1);
+    border-radius: 0px;
+}
+#box6 img:hover{
     transform: scale(1.1);
     border-radius: 0px;
 }

@@ -66,7 +66,7 @@ body{
     gap: .7rem;
 }
 
-#box1 video, #box2 video, #box3 video, #box4 video, #box5 video{
+#box1 img, #box2 img, #box3 img, #box4 img, #box5 img{
     position: relative;
     height: 75%; 
     width: 100%;
@@ -76,23 +76,23 @@ body{
     background-size: cover;
     transition: all ease .7s;
 }
-#box1 video:hover{
+#box1 img:hover{
     transform: scale(1.1);
     border-radius: 0px;
 }
-#box2 video:hover{
+#box2 img:hover{
     transform: scale(1.1);
     border-radius: 0px;
 }
-#box3 video:hover{
+#box3 img:hover{
     transform: scale(1.1);
     border-radius: 0px;
 }
-#box4 video:hover{
+#box4 img:hover{
     transform: scale(1.1);
     border-radius: 0px;
 }
-#box5 video:hover{
+#box5 img:hover{
     transform: scale(1.1);
     border-radius: 0px;
 }

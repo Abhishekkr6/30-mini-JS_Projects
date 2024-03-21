@@ -66,7 +66,7 @@ body{
     gap: .7rem;
 }
 
-#box1 img, #box2 img, #box3 img, #box4 img, #box5 img, #box6 img, #box7 img, #box8 img, #box9 img,#box10 img, #box11 img {
+#box1 img, #box2 img, #box3 img, #box4 img, #box5 img, #box6 img, #box7 img, #box8 img, #box9 img,#box10 img, #box11 img, #box12 img {
     position: relative;
     height: 75%; 
     width: 100%;
@@ -117,6 +117,10 @@ body{
     border-radius: 0px;
 }
 #box11 img:hover{
+    transform: scale(1.1);
+    border-radius: 0px;
+}
+#box12 img:hover{
     transform: scale(1.1);
     border-radius: 0px;
 }

@@ -51,6 +51,8 @@ body{
     background-color: rgb(210, 209, 208);
     height: 50vh;
     width: 20vw;
+    max-width: 318px;
+    min-height: 256px;
     border-radius: 10px;
     border: 2px solid #717070;
     box-shadow: 5px 6px 11px 2px rgba(82,82,82,1);

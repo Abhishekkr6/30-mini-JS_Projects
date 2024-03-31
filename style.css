@@ -77,6 +77,7 @@ body{
     background-position: center;
     background-size: cover;
     transition: all ease .7s;
+    cursor: grab;
 }
 #box1 img:hover{
     transform: scale(1.1);

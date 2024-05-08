@@ -27,6 +27,20 @@ let p13 = document.querySelector("#box13 img")
 let p14 = document.querySelector("#box14 img")
 let p15 = document.querySelector("#box15 img")
 let p16 = document.querySelector("#box16 img")
+let p17 = document.querySelector("#box17")
+let p18 = document.querySelector("#box18")
+let p19 = document.querySelector("#box19")
+let p20 = document.querySelector("#box20")
+let p21 = document.querySelector("#box21")
+let p22 = document.querySelector("#box22")
+let p23 = document.querySelector("#box23")
+let p24 = document.querySelector("#box24")
+let p25 = document.querySelector("#box25")
+let p26 = document.querySelector("#box26")
+let p27 = document.querySelector("#box27")
+let p28 = document.querySelector("#box28")
+let p29 = document.querySelector("#box29")
+let p30 = document.querySelector("#box30")
 
 
 
@@ -294,6 +308,230 @@ p16.addEventListener("mouseenter", () => {
         });
 })
 p16.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p17.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p17.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p18.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p18.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p19.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p19.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p20.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p20.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p21.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p21.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p22.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p22.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p23.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p23.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p24.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p24.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p25.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p25.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p26.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p26.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p27.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p27.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p28.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p28.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p29.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p29.addEventListener("mouseleave", () => {
+    follower.innerHTML = ""
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 1,
+          backgroundColor: "rgba(53, 53, 53, 0.5)"
+        });
+})
+p30.addEventListener("mouseenter", () => {
+    follower.innerHTML = "Coming..."
+    gsap.to('.follower', {
+          duration: .5, 
+          scale: 2.2,
+          backgroundColor: "rgba(255, 255, 255, 0.5)"
+        });
+})
+p30.addEventListener("mouseleave", () => {
     follower.innerHTML = ""
     gsap.to('.follower', {
           duration: .5, 

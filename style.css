@@ -241,14 +241,7 @@ footer h3{
     transform: scale(1.1);
 }
 
-footer h3 span{
-    font-size: 2vw;
-    border: 2px solid rgb(35, 33, 31);
-    border-radius: 50%;
-    padding: 1px 8px;
-    cursor: pointer;
-    background: transparent;
-}
+
 /* media  query */
 @media screen and (min-width: 2400px) {
     body{

@@ -332,7 +332,7 @@ p17.addEventListener("mouseleave", () => {
         });
 })
 p18.addEventListener("mouseenter", () => {
-    follower.innerHTML = "Coming..."
+    follower.innerHTML = "Project_18"
     gsap.to('.follower', {
           duration: .5, 
           scale: 2.2,

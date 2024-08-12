@@ -364,7 +364,7 @@ p19.addEventListener("mouseleave", () => {
         });
 })
 p20.addEventListener("mouseenter", () => {
-    follower.innerHTML = "Coming..."
+    follower.innerHTML = "Project_20"
     gsap.to('.follower', {
           duration: .5, 
           scale: 2.2,
@@ -565,8 +565,8 @@ gsap.from(".box",{
     // x: 65,
     scale: 0,
     opacity: 0,
-    duration: 1.2,
-    delay: 2,
+    duration: 1,
+    delay: 1,
     stagger: .4,
 })
 

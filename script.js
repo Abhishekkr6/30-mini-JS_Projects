@@ -11,12 +11,12 @@ document.addEventListener('mousemove', function(e) {
 
 let heading = document.querySelector(".head");
 let projectImages = [];
-for (let i = 1; i <= 16; i++) {
+for (let i = 1; i <= 21; i++) {
     projectImages.push(document.querySelector(`#box${i} img`));
 }
 
 let comingSoon = [];
-for (let i = 17; i <= 30; i++) {
+for (let i = 22; i <= 30; i++) {
     comingSoon.push(document.querySelector(`#box${i}`));
 }
 

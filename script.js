@@ -11,7 +11,7 @@ document.addEventListener('mousemove', function(e) {
 
 let heading = document.querySelector(".head");
 let projectImages = [];
-for (let i = 1; i <= 22; i++) {
+for (let i = 1; i <= 23; i++) {
     projectImages.push(document.querySelector(`#box${i} img`));
 }
 
